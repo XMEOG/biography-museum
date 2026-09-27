@@ -1,0 +1,164 @@
+[
+  {
+    "id": "scene-1",
+    "title": "Bilim ve Buluş Salonu",
+    "imageUrl": "/demo/scene-1.svg",
+    "hotspots": [
+      {
+        "id": "hs-1",
+        "sceneId": "scene-1",
+        "personId": "ada-lovelace",
+        "x": 12,
+        "y": 14,
+        "width": 22,
+        "height": 64,
+        "source": "manual"
+      },
+      {
+        "id": "hs-2",
+        "sceneId": "scene-1",
+        "personId": "nikola-tesla",
+        "x": 41,
+        "y": 10,
+        "width": 22,
+        "height": 70,
+        "source": "manual"
+      },
+      {
+        "id": "hs-3",
+        "sceneId": "scene-1",
+        "personId": "marie-curie",
+        "x": 69,
+        "y": 14,
+        "width": 22,
+        "height": 64,
+        "source": "manual"
+      },
+      {
+        "id": "hs-muk6o55o-4l4mxa",
+        "sceneId": "scene-1",
+        "personId": "person-muk6mcip-7ygwtr",
+        "shape": "polygon",
+        "points": [
+          {
+            "x": 6.966088354823493,
+            "y": 9.410332277644997
+          },
+          {
+            "x": 10.81576480485428,
+            "y": 31.408495442099277
+          },
+          {
+            "x": 22.73143866536643,
+            "y": 32.71208923726259
+          },
+          {
+            "x": 27.77268879517453,
+            "y": 13.484063664533533
+          }
+        ],
+        "x": 6.966088354823493,
+        "y": 9.410332277644997,
+        "width": 20.806600440351037,
+        "height": 23.30175695961759,
+        "source": "manual-polygon"
+      }
+    ],
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-09-27T19:00:11.608Z"
+  },
+  {
+    "id": "scene-muk5zv5x-uiz8qj",
+    "title": "Adsız Sahne",
+    "imageUrl": "/uploads/image-1790534474957-1uqjaw.jpeg",
+    "hotspots": [
+      {
+        "id": "hs-muk5zyy9-0aq61i",
+        "sceneId": "scene-muk5zv5x-uiz8qj",
+        "personId": null,
+        "x": 10,
+        "y": 10,
+        "width": 55.01374654675487,
+        "height": 48.799268995397036,
+        "source": "manual"
+      },
+      {
+        "id": "hs-muk603pq-n696b2",
+        "sceneId": "scene-muk5zv5x-uiz8qj",
+        "personId": null,
+        "x": 15,
+        "y": 15,
+        "width": 20,
+        "height": 60,
+        "source": "auto"
+      },
+      {
+        "id": "hs-muk603qe-p3qpe6",
+        "sceneId": "scene-muk5zv5x-uiz8qj",
+        "personId": null,
+        "x": 39.80018888171326,
+        "y": 0,
+        "width": 20,
+        "height": 65,
+        "source": "auto"
+      },
+      {
+        "id": "hs-muk603r4-x4lcug",
+        "sceneId": "scene-muk5zv5x-uiz8qj",
+        "personId": null,
+        "x": 68,
+        "y": 15,
+        "width": 20,
+        "height": 60,
+        "source": "auto"
+      },
+      {
+        "id": "hs-muk6cgwx-5ydsg5",
+        "sceneId": "scene-muk5zv5x-uiz8qj",
+        "personId": null,
+        "shape": "polygon",
+        "points": [
+          {
+            "x": 41.61319388767307,
+            "y": 0
+          },
+          {
+            "x": 27.86433943323598,
+            "y": 29.982688368883817
+          },
+          {
+            "x": 30.889090210423735,
+            "y": 73.47998905979506
+          },
+          {
+            "x": 35.380377071116655,
+            "y": 89.77492703940027
+          },
+          {
+            "x": 48.30431284573972,
+            "y": 95.44760667476821
+          },
+          {
+            "x": 61.04491937212389,
+            "y": 92.35156597223302
+          },
+          {
+            "x": 76.90192032072828,
+            "y": 43.66024758429708
+          },
+          {
+            "x": 64.52795131173492,
+            "y": 1.792443799359128
+          }
+        ],
+        "x": 27.86433943323598,
+        "y": 0,
+        "width": 49.0375808874923,
+        "height": 95.44760667476821,
+        "source": "manual-polygon"
+      }
+    ],
+    "createdAt": "2026-09-27T18:41:15.141Z",
+    "updatedAt": "2026-09-27T18:58:13.863Z"
+  }
+]

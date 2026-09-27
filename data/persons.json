@@ -1,0 +1,184 @@
+[
+  {
+    "id": "ada-lovelace",
+    "name": "Ada Lovelace",
+    "subtitle": "Matematikçi, İlk Bilgisayar Programcısı",
+    "shortBiography": "Charles Babbage'ın Analitik Motoru üzerine yazdığı notlarla tarihin ilk bilgisayar programını tasarladı.",
+    "biography": "Merhaba, ben Ada Lovelace. Matematiğe olan ilgim küçük yaşlarda başladı; annem, babamın şairliğinden bende iz kalmasın diye beni sayılarla ve mantıkla büyüttü. Charles Babbage'ın tasarladığı Analitik Motor'u ilk gördüğümde, bunun yalnızca hesap yapan bir araç olmadığını, semboller üzerinde işlem yapabilecek bir makine olduğunu fark ettim. Bir İtalyan mühendisin motor hakkındaki makalesini çevirirken kendi notlarımı da ekledim; bu notlar makalenin kendisinden çok daha uzun oldu. İçlerinden biri, Bernoulli sayılarını hesaplamak için yazdığım bir dizi talimattı. Bugün buna 'program' diyorsunuz. Ben sadece makinenin sayılardan daha fazlasını, örneğin müziği bile işleyebileceğini hayal ediyordum. Zamanımın çok ilerisinde bir fikirdi belki, ama inanıyordum ki bir gün makineler yalnızca hesaplamaz, yaratır da.",
+    "works": [
+      "Analitik Motor üzerine notlar (1843)",
+      "Bernoulli sayıları için ilk algoritma",
+      "Luigi Menabrea'nın makalesinin İngilizce çevirisi ve genişletilmiş notları"
+    ],
+    "contributions": [
+      "Dünyanın ilk bilgisayar programı olarak kabul edilen algoritmayı yazdı",
+      "Makinelerin sayısal hesaplamanın ötesinde kullanılabileceğini öngördü",
+      "Bilgisayar biliminin kavramsal temellerine öncülük etti"
+    ],
+    "period": "1815 – 1852",
+    "gallery": [
+      {
+        "url": "/demo/ada.svg",
+        "caption": "Temsili portre"
+      },
+      {
+        "url": "/demo/ada-work-1.svg",
+        "caption": "Analitik Motor üzerine notlardan bir sayfa (temsili)"
+      }
+    ],
+    "videoUrl": "",
+    "audioUrl": "",
+    "audioIsTTS": false,
+    "audioStale": false,
+    "timeline": [
+      {
+        "year": "1815",
+        "label": "Londra'da doğdu"
+      },
+      {
+        "year": "1833",
+        "label": "Charles Babbage ile tanıştı"
+      },
+      {
+        "year": "1843",
+        "label": "Analitik Motor üzerine notlarını yayımladı"
+      },
+      {
+        "year": "1852",
+        "label": "Vefat etti"
+      }
+    ],
+    "relatedPersons": [],
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "nikola-tesla",
+    "name": "Nikola Tesla",
+    "subtitle": "Mucit, Elektrik Mühendisi",
+    "shortBiography": "Alternatif akım (AC) sistemlerinin geliştirilmesine öncülük eden mucit ve mühendis.",
+    "biography": "Ben Nikola Tesla. Çocukluğumda bir şimşeğin gökyüzünü aydınlatışını izlerken, enerjinin görünmeyen ama her yeri saran gücüne hayran kalmıştım. Mühendislik eğitimimin ardından Amerika'ya gittiğimde, doğru akımın sınırlarını gördüm ve alternatif akımın çok daha verimli, çok daha uzak mesafelere taşınabilir olduğuna inandım. Bu fikrim yüzünden dönemin en güçlü isimleriyle bile karşı karşıya geldim, ama laboratuvarımda çalışmaya devam ettim. İndüksiyon motorunu, çok fazlı akım sistemlerini ve kablosuz enerji aktarımı üzerine deneylerimi hep aynı inatla sürdürdüm: dünyayı aydınlatmak. Bazı fikirlerim zamanının çok ötesindeydi; belki bu yüzden hayatım boyunca hep yalnız bir yolculuk oldu benimkisi. Ama bugün her prizde, her elektrik hattında bir parçam yaşıyor.",
+    "works": [
+      "Alternatif akım (AC) motor ve jeneratör sistemleri",
+      "Tesla bobini",
+      "Kablosuz enerji aktarımı deneyleri (Wardenclyffe Kulesi)"
+    ],
+    "contributions": [
+      "Modern elektrik dağıtım sisteminin temelini attı",
+      "İndüksiyon motorunu geliştirdi",
+      "Radyo ve kablosuz iletişim teknolojilerine öncülük eden deneyler yaptı"
+    ],
+    "period": "1856 – 1943",
+    "gallery": [
+      {
+        "url": "/demo/tesla.svg",
+        "caption": "Temsili portre"
+      },
+      {
+        "url": "/demo/tesla-work-1.svg",
+        "caption": "Laboratuvar çalışmalarından bir sahne (temsili)"
+      }
+    ],
+    "videoUrl": "",
+    "audioUrl": "",
+    "audioIsTTS": false,
+    "audioStale": false,
+    "timeline": [
+      {
+        "year": "1856",
+        "label": "Smiljan'da doğdu"
+      },
+      {
+        "year": "1884",
+        "label": "Amerika'ya göç etti"
+      },
+      {
+        "year": "1891",
+        "label": "Tesla bobinini geliştirdi"
+      },
+      {
+        "year": "1943",
+        "label": "Vefat etti"
+      }
+    ],
+    "relatedPersons": [],
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "marie-curie",
+    "name": "Marie Curie",
+    "subtitle": "Fizikçi, Kimyager",
+    "shortBiography": "Radyoaktivite üzerine çığır açan araştırmalarıyla iki farklı bilim dalında Nobel Ödülü kazanan ilk kişi.",
+    "biography": "Ben Marie Curie. Varşova'da doğdum, ama bilim eğitimimi tamamlayabilmek için Paris'e gitmek zorunda kaldım; kadınlara üniversite kapıları o dönem pek açık değildi. Eşim Pierre ile birlikte, bir cevherin neden bu kadar radyasyon yaydığını anlamaya çalışırken iki yeni element keşfettik: polonyum ve radyum. Yıllarca, sağlığa zararlı olduğunu bilmeden, bu maddelerle küçük bir barakada çalıştık. Bilimin bana öğrettiği en önemli şey, meraklı olmaktan asla vazgeçmemekti; kadın olduğum için karşılaştığım engeller de dahil hiçbir şey bu merakı söndüremedi. Fizik ve kimya alanlarında ayrı ayrı Nobel Ödülü almak, bana verilen bir onurdan çok, bilimin cinsiyet tanımadığının bir kanıtıydı.",
+    "works": [
+      "Polonyum ve radyum elementlerinin keşfi",
+      "Radyoaktivite üzerine öncü çalışmalar",
+      "Birinci Dünya Savaşı'nda mobil röntgen birimlerinin geliştirilmesi"
+    ],
+    "contributions": [
+      "Fizik (1903) ve Kimya (1911) alanlarında iki Nobel Ödülü kazanan ilk kişi oldu",
+      "Radyoaktivite teorisinin temellerini attı",
+      "Kanser tedavisinde radyoterapinin önünü açtı"
+    ],
+    "period": "1867 – 1934",
+    "gallery": [
+      {
+        "url": "/demo/curie.svg",
+        "caption": "Temsili portre"
+      },
+      {
+        "url": "/demo/curie-work-1.svg",
+        "caption": "Laboratuvar çalışmalarından bir sahne (temsili)"
+      }
+    ],
+    "videoUrl": "",
+    "audioUrl": "",
+    "audioIsTTS": false,
+    "audioStale": false,
+    "timeline": [
+      {
+        "year": "1867",
+        "label": "Varşova'da doğdu"
+      },
+      {
+        "year": "1895",
+        "label": "Pierre Curie ile evlendi"
+      },
+      {
+        "year": "1903",
+        "label": "Fizik alanında Nobel Ödülü aldı"
+      },
+      {
+        "year": "1911",
+        "label": "Kimya alanında ikinci Nobel Ödülünü aldı"
+      },
+      {
+        "year": "1934",
+        "label": "Vefat etti"
+      }
+    ],
+    "relatedPersons": [],
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "person-muk6mcip-7ygwtr",
+    "name": "Merve Ömür",
+    "subtitle": "",
+    "shortBiography": "",
+    "biography": "me4rve",
+    "works": [],
+    "contributions": [],
+    "period": "",
+    "gallery": [],
+    "videoUrl": "",
+    "audioUrl": "",
+    "audioIsTTS": false,
+    "audioStale": false,
+    "timeline": [],
+    "relatedPersons": [],
+    "createdAt": "2026-09-27T18:58:44.065Z",
+    "updatedAt": "2026-09-27T18:58:44.065Z"
+  }
+]

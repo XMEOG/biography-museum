@@ -1,0 +1,44 @@
+<svg viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#1c1a17"/>
+      <stop offset="100%" stop-color="#0a0a0b"/>
+    </radialGradient>
+    <linearGradient id="figure1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a3530"/>
+      <stop offset="100%" stop-color="#1c1a18"/>
+    </linearGradient>
+    <linearGradient id="figure2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#332f2c"/>
+      <stop offset="100%" stop-color="#18100c"/>
+    </linearGradient>
+    <linearGradient id="figure3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3d372f"/>
+      <stop offset="100%" stop-color="#201a14"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <!-- zemin çizgisi -->
+  <line x1="0" y1="760" x2="1600" y2="760" stroke="#2a2a2e" stroke-width="1"/>
+
+  <!-- Figür 1: sol (Ada Lovelace alanı ~ x:12-34%, y:14-78%) -->
+  <g>
+    <ellipse cx="380" cy="270" rx="95" ry="115" fill="url(#figure1)"/>
+    <path d="M255 760 C255 520 505 520 505 760 Z" fill="url(#figure1)"/>
+  </g>
+
+  <!-- Figür 2: orta (Nikola Tesla alanı ~ x:41-63%, y:10-80%) -->
+  <g>
+    <ellipse cx="800" cy="245" rx="100" ry="120" fill="url(#figure2)"/>
+    <path d="M665 760 C665 500 935 500 935 760 Z" fill="url(#figure2)"/>
+  </g>
+
+  <!-- Figür 3: sağ (Marie Curie alanı ~ x:69-91%, y:14-78%) -->
+  <g>
+    <ellipse cx="1220" cy="270" rx="95" ry="115" fill="url(#figure3)"/>
+    <path d="M1095 760 C1095 520 1345 520 1345 760 Z" fill="url(#figure3)"/>
+  </g>
+
+  <!-- ince dekoratif çizgiler (müze paspartu hissi) -->
+  <rect x="40" y="40" width="1520" height="820" fill="none" stroke="#2a2a2e" stroke-width="1"/>
+</svg>
